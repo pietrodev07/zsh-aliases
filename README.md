@@ -8,29 +8,38 @@ This repository includes the following aliases:
 
 - **vscode-insiders**
 
-  - `code`: `code-insiders` - Launch Visual Studio Code Insiders
-  - `code-sw`: `code-insiders --reuse-window` - Launch Visual Studio Code Insiders reusing the window
+  | Alias     | Command                        | Description                                           |
+  | --------- | ------------------------------ | ----------------------------------------------------- |
+  | `code`    | `code-insiders`                | Launch Visual Studio Code Insiders                    |
+  | `code-sw` | `code-insiders --reuse-window` | Launch Visual Studio Code Insiders reusing the window |
 
 - **git**
 
-  - `gcm`: `git commit -m` - Commit changes with a message
-  - `gcl`: `git clone` - Clone a repository
-  - `gpl`: `git pull` - Fetch and merge changes from a remote repository
-  - `gph`: `git push` - Push changes to the remote repository
-  - `gad`: `git add` - Add files to the commit
-  - `gck`: `git checkout` - Switch branches
-  - `gmr`: `git merge` - Merge a branch
+  | Alias | Command         | Description                                      |
+  | ----- | --------------- | ------------------------------------------------ |
+  | `gcm` | `git commit -m` | Commit changes with a message                    |
+  | `gcl` | `git clone`     | Clone a repository                               |
+  | `gpl` | `git pull`      | Fetch and merge changes from a remote repository |
+  | `gph` | `git push`      | Push changes to the remote repository            |
+  | `gad` | `git add`       | Add files to the commit                          |
+  | `gck` | `git checkout`  | Switch branches                                  |
+  | `gmr` | `git merge`     | Merge a branch                                   |
 
 - **pnpm**
 
-  - `pm`: `pnpm` - Pnpm package manager
-  - `pma`: `pnpm add` - Add a package
-  - `pmr`: `pnpm remove` - Remove a package
-  - `pmi`: `pnpm install` - Install packages
+  | Alias | Command        | Description          |
+  | ----- | -------------- | -------------------- |
+  | `pm`  | `pnpm`         | Pnpm package manager |
+  | `pma` | `pnpm add`     | Add a package        |
+  | `pmr` | `pnpm remove`  | Remove a package     |
+  | `pmi` | `pnpm install` | Install packages     |
 
 - **utility**
-  - `cl`: `clear` - Clear the terminal
-  - `mk`: `make` - Execute a make command
+
+  | Alias | Command | Description            |
+  | ----- | ------- | ---------------------- |
+  | `cl`  | `clear` | Clear the terminal     |
+  | `mk`  | `make`  | Execute a make command |
 
 ## Installation
 
