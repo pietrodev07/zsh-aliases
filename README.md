@@ -37,7 +37,7 @@ This repository includes the following aliases:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/zsh-aliases.git
+   git clone https://github.com/pietrodev07/zsh-aliases.git
    ```
 
 2. Add the aliases to your `.zshrc` or `aliases.zsh` file:
