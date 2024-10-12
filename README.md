@@ -6,12 +6,12 @@ A collection of custom Zsh aliases to make command-line life easier.
 
 This repository includes the following aliases:
 
-- **Code Editor**
+- **vscode-insiders**
 
   - `code`: `code-insiders` - Launch Visual Studio Code Insiders
   - `code-sw`: `code-insiders --reuse-window` - Launch Visual Studio Code Insiders reusing the window
 
-- **Git**
+- **git**
 
   - `gcm`: `git commit -m` - Commit changes with a message
   - `gcl`: `git clone` - Clone a repository
@@ -28,7 +28,7 @@ This repository includes the following aliases:
   - `pmr`: `pnpm remove` - Remove a package
   - `pmi`: `pnpm install` - Install packages
 
-- **Utility**
+- **utility**
   - `cl`: `clear` - Clear the terminal
   - `mk`: `make` - Execute a make command
 
