@@ -8,8 +8,8 @@ This repository includes the following aliases:
 
 - **Code Editor**
 
-  - `code`: Launch Visual Studio Code Insiders
-  - `code-sw`: Launch Visual Studio Code Insiders reusing the window
+  - `code`: `code-insiders` - Launch Visual Studio Code Insiders
+  - `code-sw`: `code-insiders --reuse-window` - Launch Visual Studio Code Insiders reusing the window
 
 - **Git**
 
