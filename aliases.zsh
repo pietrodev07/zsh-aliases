@@ -13,6 +13,7 @@ alias pm="pnpm"
 alias pma="pnpm add"
 alias pmr="pnpm remove"
 alias pmi="pnpm install"
+alias pit="pnpm init"
 
 alias cl="clear"
 alias mk="make"
