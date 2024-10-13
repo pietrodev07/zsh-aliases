@@ -33,6 +33,7 @@ This repository includes the following aliases:
   | `pma` | `pnpm add`     | Add a package        |
   | `pmr` | `pnpm remove`  | Remove a package     |
   | `pmi` | `pnpm install` | Install packages     |
+  | `pit` | `pnpm init`    | Init a package       |
 
 - **utility**
 
