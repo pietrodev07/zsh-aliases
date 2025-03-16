@@ -15,15 +15,15 @@ This repository includes the following aliases:
 
 - **git**
 
-  | Alias | Command         | Description                                      |
-  | ----- | --------------- | ------------------------------------------------ |
-  | `gcm` | `git commit -m` | Commit changes with a message                    |
-  | `gcl` | `git clone`     | Clone a repository                               |
-  | `gpl` | `git pull`      | Fetch and merge changes from a remote repository |
-  | `gph` | `git push`      | Push changes to the remote repository            |
-  | `gad` | `git add`       | Add files to the commit                          |
-  | `gck` | `git checkout`  | Switch branches                                  |
-  | `gmr` | `git merge`     | Merge a branch                                   |
+  | Alias | Command                       | Description                                      |
+  | ----- | ----------------------------- | ------------------------------------------------ |
+  | `gcm` | `git commit -m`               | Commit changes with a message                    |
+  | `gcl` | `git clone <url> && cd <dir>` | Clone a repository and move on it                |
+  | `gpl` | `git pull`                    | Fetch and merge changes from a remote repository |
+  | `gph` | `git push`                    | Push changes to the remote repository            |
+  | `gad` | `git add`                     | Add files to the commit                          |
+  | `gck` | `git checkout`                | Switch branches                                  |
+  | `gmr` | `git merge`                   | Merge a branch                                   |
 
 - **pnpm**
 
