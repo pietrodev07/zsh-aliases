@@ -2,7 +2,7 @@ alias code="code-insiders"
 alias code-sw="code-insiders --reuse-window"
 
 alias gcm="git commit -m"
-alias gcl="git clone"
+alias gcl='function _gcl() { git clone "$1" && cd "$(basename "$1" .git)"; }; _gcl'
 alias gpl="git pull"
 alias gph="git push"
 alias gad="git add"
